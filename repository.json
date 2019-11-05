@@ -1,0 +1,5 @@
+{
+        "name": "Smart Thermostat PID",
+        "url": "http://www.example/addons",
+        "maintainer": "HomeAssistant Team <test@test.com>"
+      }
