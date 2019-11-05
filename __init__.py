@@ -1,1 +1,1 @@
-"""The smart_thermostat component."""
+"""The smart-thermostat component."""

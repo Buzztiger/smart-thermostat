@@ -1,7 +1,7 @@
 import asyncio
 import logging
 import time
-import custom_components.smart_thermostat.pid_controller as pid_controller
+import custom_components.smart-thermostat.pid_controller as pid_controller
 
 import voluptuous as vol
 

@@ -1,7 +1,7 @@
 {
-  "domain": "smart_thermostat",
+  "domain": "smart-thermostat",
   "name": "Smart thermostat",
-  "documentation": "https://github.com/fabiannydegger/custom_components",
+  "documentation": "https://github.com/Buzztiger/smart-thermostat",
   "requirements": [],
   "dependencies": [
     "sensor",
